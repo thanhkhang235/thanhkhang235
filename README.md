@@ -44,7 +44,7 @@ I'm a dedicated Data Scientist with a strong foundation in Applied Mathematics a
 
 ## Contact
 - **Email:** thankhang230597@gmail.com
-- **LinkedIn:** [Thanh Khang Nguyen]([https://www.linkedin.com/in/thanh-khang-nguyen-035244212/])
+- **LinkedIn:** [Thanh Khang Nguyen](https://www.linkedin.com/in/thanh-khang-nguyen-035244212/)
 
 
 
