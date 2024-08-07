@@ -20,7 +20,7 @@ I'm a dedicated Data Scientist with a strong foundation in Applied Mathematics a
 ## Experience
 - **Data Science and Machine Learning Intern**  
   Luxembourg Institute of Socio‐Economic Research | July 2024 - August 2024
-  - Implemented Convolutional Neural Networks (CNN) in Python for data interpretation.
+  - Collect data via Google API.
   - Developed strategies for sustainable residential densification.
 
 - **Management Associate**  
